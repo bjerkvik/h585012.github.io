@@ -10,5 +10,4 @@ header:
     overlay_image: ./assets/images/lazyFrog.jpg
 ---
 
-<h1>Whoops... Error 404</h1>
-<h1>Sorry, but no experience is found.</h1>
+<h1>Error 404: Career Not Found.</h1>
